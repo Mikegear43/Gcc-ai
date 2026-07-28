@@ -1,7 +1,8 @@
 {
+  "/_global-error/page": "/_global-error",
   "/_not-found/page": "/_not-found",
   "/dashboard/page": "/dashboard",
+  "/estimates/page": "/estimates",
   "/page": "/",
-  "/proposals/page": "/proposals",
-  "/estimates/page": "/estimates"
+  "/proposals/page": "/proposals"
 }
